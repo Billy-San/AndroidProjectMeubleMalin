@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904256268350",
+    "project_id": "androidprojectmeublemalin",
+    "storage_bucket": "androidprojectmeublemalin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904256268350:android:47a1cebb7bf4853ac2896f",
+        "android_client_info": {
+          "package_name": "com.example.androidprojectmeublemalin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904256268350-kh0cmp7303bs6u79r24frcg3kd2lp1i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCevFESqwl7Dq1CSj7TYbUq52BUVlbJZ8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904256268350-kh0cmp7303bs6u79r24frcg3kd2lp1i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
